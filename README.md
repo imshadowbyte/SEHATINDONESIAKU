@@ -4,7 +4,7 @@
 
 Unduh aplikasi melalui link berikut:
 
-[Download SEHATINDONESIAKU.exe](https://drive.google.com/file/d/1rvjqX1OPUZJBEJp7OLCZbENz29iOCLbC/view?usp=sharing)
+[Download SEHATINDONESIAKU.exe](https://drive.google.com/file/d/16AWyM91kU32VrS99Ib94HRd9XaZl5NbT/view?usp=sharing)
 
 ## Tampilan aplikasi
 

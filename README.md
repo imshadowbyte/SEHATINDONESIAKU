@@ -8,7 +8,13 @@ Unduh aplikasi melalui link berikut:
 
 ## Tampilan aplikasi
 
-![Tampilan aplikasi Sehat Indonesiaku](assets/screenshot-app.jpg)
+**CKG Umum**
+
+![Tampilan aplikasi CKG Umum](assets/screenshot-ckg-umum.webp)
+
+**CKG Sekolah**
+
+![Tampilan aplikasi CKG Sekolah](assets/screenshot-ckg-sekolah.webp)
 
 ## File yang harus ada
 

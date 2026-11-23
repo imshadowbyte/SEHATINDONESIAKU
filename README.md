@@ -1,5 +1,11 @@
 # Panduan Sehat Indonesiaku
 
+## Download aplikasi
+
+Unduh aplikasi melalui link berikut:
+
+[Download SEHATINDONESIAKU.exe](https://drive.google.com/file/d/1rvjqX1OPUZJBEJp7OLCZbENz29iOCLbC/view?usp=sharing)
+
 ## File yang harus ada
 
 Letakkan empat file berikut dalam satu folder:
